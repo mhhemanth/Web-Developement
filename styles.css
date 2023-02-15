@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-color: cornsilk;
+    font-family: sans-serif;
+}
+h1 {
+    margin: 50px;
+    color: cadetblue;
+}
+.projects {
+    margin: 100px;
+}
+div p {
+    margin: 30px;
+    font-weight: 800;
+    font-style: italic;
+    font-family: sans-serif;
+}
